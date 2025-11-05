@@ -1,6 +1,6 @@
 {
     "name": "create-typescript-bc",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Scaffold a TypeScript project for use as a ControlAddin in Business Central.",
     "license": "MIT",
     "author": "Florian Noever",
