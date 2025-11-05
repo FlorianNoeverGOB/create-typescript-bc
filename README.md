@@ -1,2 +1,8 @@
-# create-typescript-bc
-Scaffold a TypeScript project for use as a ControlAddin in Business Central.
+# Create Typescript BC
+
+## Description
+
+## Usage
+
+## License
+MIT License
